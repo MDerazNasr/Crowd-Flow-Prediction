@@ -1,4 +1,4 @@
-## AdjNet: a deep learning approach for Crowd Flow Prediction
+##Prediction of crowd flow
 
 Python impletmentaion of the thesis ***AdjNet: a deep learning approach for Crowd Flow Prediction*** ([Link](https://etd.adm.unipi.it/t/etd-06092021-221917/))
 
@@ -132,3 +132,4 @@ We have prepared an instance for running the model, that is `main.py`.
 ```shell
 $ python main.py
 ```
+
